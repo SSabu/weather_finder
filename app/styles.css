@@ -1,0 +1,32 @@
+.parallax img {
+  display: block;
+}
+
+.parallax-container {
+      height: 750px;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+.input-field label {
+  color: #000;
+}
+
+.card-title{
+  padding: 28px;
+}
+
+.day, .modal-title {
+  text-align: center;
+}
+
+#weather{
+  padding-top: 10px;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #000;
+  box-shadow: 0 1px 0 0 #000;
+}
