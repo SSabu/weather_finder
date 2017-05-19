@@ -22,6 +22,10 @@
   text-align: center;
 }
 
+#arrow {
+  float: right;
+}
+
 #weather{
   padding-top: 10px;
 }
