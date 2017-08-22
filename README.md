@@ -2,7 +2,7 @@
 
 ## Description
 
-The Weather Finder App provides a 5-day weather snapshot forecast for cities all around the world.  My project uses the Open Weather API to retrieve 5-day forecast data based on city name (e.g. San Diego), city/country (e.g. Dublin, Ireland), or city/state in the case of the US (e.g. Richmond, Virginia).  Once the user hits the "Get Weather" button, a fetch request is submitted to the Open Weather API that retrieves 5-day weather forecast data.  This request is parsed, the data is massaged, and it is used to populate a modal that provides a weather snapshot of the most recent current weather data for temperature and weather conditions, as well as the upcoming predictions for the same time of day as forecasted by Open Weather's global weather models.
+The Weather Finder App provides a 5-day weather snapshot forecast for cities all around the world using the Open Weather API.  Location information may be submitted using city name (e.g. San Diego), city/country (e.g. Dublin, Ireland), or city/state in the case of the US (e.g. Richmond, Virginia or Richmond, VA).  Once the user submits the location by clicking the "Get Weather" button, a fetch request is sent to the Open Weather API to retrieve a 5-day forecast.  The subsequent response is parsed, the data is massaged and used to populate a modal that provides a weather snapshot of the most recent temperature and weather conditions, as well as temperature and weather conditions for the next four days as forecasted by Open Weather's global weather models.
 
 ## Technology
 
