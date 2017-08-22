@@ -8,4 +8,4 @@ The Weather Finder App provides a 5-day weather snapshot forecast for cities all
 
 The Weather Finder App was built using jQuery, the Open Weather API, Materialize CSS Framework, and the Brunch Build Tool to organize code in modules.  
 
-Authors:  Sandeep Sabu  
+Author:  Sandeep Sabu  
